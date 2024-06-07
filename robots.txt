@@ -1,0 +1,3 @@
+Sitemap: http://fsvip.gitee.io/hexo-theme-fluid//sitemap.xml
+
+User-agent: *
