@@ -78,14 +78,6 @@
             "date_modified": "2022-07-23T11:06:46.000Z"
         },
         {
-            "id": "http://fsvip.gitee.io/hexo-theme-fluid/pages/d195b4/",
-            "url": "http://fsvip.gitee.io/hexo-theme-fluid/pages/d195b4/",
-            "title": "如何将个人的GitHub主页配置的优雅好看",
-            "summary": "我很早注意到，GitHub当中，你创建一个与自己账号同名的仓库，然后这个仓库的内容会展示在个人主页，换言之，你可以通过装扮这个仓库，来实现个人主页的装扮。",
-            "image": "http://t.eryajf.net/imgs/2022/07/b67354a1cd3df47e.png",
-            "date_modified": "2022-07-23T11:10:55.000Z"
-        },
-        {
             "id": "http://fsvip.gitee.io/hexo-theme-fluid/pages/226388/",
             "url": "http://fsvip.gitee.io/hexo-theme-fluid/pages/226388/",
             "title": "利用GitHub Actions自动为README添加TOC目录",
@@ -94,12 +86,28 @@
             "date_modified": "2022-05-08T10:40:28.000Z"
         },
         {
+            "id": "http://fsvip.gitee.io/hexo-theme-fluid/pages/d195b4/",
+            "url": "http://fsvip.gitee.io/hexo-theme-fluid/pages/d195b4/",
+            "title": "如何将个人的GitHub主页配置的优雅好看",
+            "summary": "我很早注意到，GitHub当中，你创建一个与自己账号同名的仓库，然后这个仓库的内容会展示在个人主页，换言之，你可以通过装扮这个仓库，来实现个人主页的装扮。",
+            "image": "http://t.eryajf.net/imgs/2022/07/b67354a1cd3df47e.png",
+            "date_modified": "2022-07-23T11:10:55.000Z"
+        },
+        {
             "id": "http://fsvip.gitee.io/hexo-theme-fluid/pages/2cb154/",
             "url": "http://fsvip.gitee.io/hexo-theme-fluid/pages/2cb154/",
             "title": "利用GitHub Actions自动将项目贡献者列表添加到README中",
             "summary": "当我们负责的项目有越来越多的人加入进行协作之后，将贡献者添加到 README 中是一个很好的激励作用，很多大的项目也都是这么做的，本文就来讲一下，如何借助 Github Actions 自动将项目贡献者列表添加到 README 中。",
             "image": "http://t.eryajf.net/imgs/2022/06/9dc0fcdcc6ebd0c2.jpg",
             "date_modified": "2022-06-01T10:30:49.000Z"
+        },
+        {
+            "id": "http://fsvip.gitee.io/hexo-theme-fluid/pages/1b1ba3/",
+            "url": "http://fsvip.gitee.io/hexo-theme-fluid/pages/1b1ba3/",
+            "title": "利用GitHub Actions自动获取博客rss文章",
+            "summary": "在GitHub中，我们能看到每个人都在折腾个人同名仓库的profile，我在这上边也花了不少的时间，在这个冲浪经历中，感觉外国人折腾的好像要更厉害一些，浏览过程中看到有人能直接在个人的profile中生成博客最近更新文章，很是新颖，于是就学习了一下。",
+            "image": "http://t.eryajf.net/imgs/2022/06/a8aba8b74d90d40e.png",
+            "date_modified": "2022-06-27T16:39:27.000Z"
         },
         {
             "id": "http://fsvip.gitee.io/hexo-theme-fluid/pages/f3e878/",
@@ -118,12 +126,11 @@
             "date_modified": "2022-07-23T11:01:57.000Z"
         },
         {
-            "id": "http://fsvip.gitee.io/hexo-theme-fluid/pages/1b1ba3/",
-            "url": "http://fsvip.gitee.io/hexo-theme-fluid/pages/1b1ba3/",
-            "title": "利用GitHub Actions自动获取博客rss文章",
-            "summary": "在GitHub中，我们能看到每个人都在折腾个人同名仓库的profile，我在这上边也花了不少的时间，在这个冲浪经历中，感觉外国人折腾的好像要更厉害一些，浏览过程中看到有人能直接在个人的profile中生成博客最近更新文章，很是新颖，于是就学习了一下。",
-            "image": "http://t.eryajf.net/imgs/2022/06/a8aba8b74d90d40e.png",
-            "date_modified": "2022-06-27T16:39:27.000Z"
+            "id": "http://fsvip.gitee.io/hexo-theme-fluid/pages/4ba0f4/",
+            "url": "http://fsvip.gitee.io/hexo-theme-fluid/pages/4ba0f4/",
+            "title": "利用GitHub Actions自动生成个人star列表并归类",
+            "summary": "当我们在GitHub中冲浪时，遇到优秀的项目经常会为之点赞，但就像网络上经常说的玩笑一样：收藏等于会了。其实我们不应该让这些已被自己赏识过的项目石沉大海，那么，如果有一个项目能把自己过去star过得项目自动整理并归类就好了。本文就将介绍如何利用GitHub Actions来实现这个功能。",
+            "date_modified": "2022-07-29T16:26:09.000Z"
         },
         {
             "id": "http://fsvip.gitee.io/hexo-theme-fluid/pages/db92f0/",
@@ -132,13 +139,6 @@
             "summary": "GitHub中的follow功能，类似于微博中的关注，而关注我们的大佬，就更应该有一个合适的地方安排，本文将分享如何基于GitHub Actions自动生成个人的Fans列表。",
             "image": "http://t.eryajf.net/imgs/2022/07/71ebbd7a8dc21cb3.png",
             "date_modified": "2022-07-29T15:51:43.000Z"
-        },
-        {
-            "id": "http://fsvip.gitee.io/hexo-theme-fluid/pages/4ba0f4/",
-            "url": "http://fsvip.gitee.io/hexo-theme-fluid/pages/4ba0f4/",
-            "title": "利用GitHub Actions自动生成个人star列表并归类",
-            "summary": "当我们在GitHub中冲浪时，遇到优秀的项目经常会为之点赞，但就像网络上经常说的玩笑一样：收藏等于会了。其实我们不应该让这些已被自己赏识过的项目石沉大海，那么，如果有一个项目能把自己过去star过得项目自动整理并归类就好了。本文就将介绍如何利用GitHub Actions来实现这个功能。",
-            "date_modified": "2022-07-29T16:26:09.000Z"
         },
         {
             "id": "http://fsvip.gitee.io/hexo-theme-fluid/pages/dbee9e/",
@@ -173,6 +173,14 @@
             "date_modified": "2023-02-28T14:56:10.000Z"
         },
         {
+            "id": "http://fsvip.gitee.io/hexo-theme-fluid/pages/7edb58/",
+            "url": "http://fsvip.gitee.io/hexo-theme-fluid/pages/7edb58/",
+            "title": "认识并使用一个透明代理http-server",
+            "summary": "http-server 可以简单理解成一个透明代理。能够让我们方便的在本地对项目以及资源进行调试校验，而不必再起一个 Nginx 来进行代理。",
+            "image": "http://t.eryajf.net/imgs/2022/12/72a0c2d9a56656a0.jpg",
+            "date_modified": "2022-12-08T11:15:58.000Z"
+        },
+        {
             "id": "http://fsvip.gitee.io/hexo-theme-fluid/pages/f5007c/",
             "url": "http://fsvip.gitee.io/hexo-theme-fluid/pages/f5007c/",
             "title": "将maven本地包上传到nexus私服的实践",
@@ -205,12 +213,12 @@
             "date_modified": "2023-06-03T21:34:58.000Z"
         },
         {
-            "id": "http://fsvip.gitee.io/hexo-theme-fluid/pages/7edb58/",
-            "url": "http://fsvip.gitee.io/hexo-theme-fluid/pages/7edb58/",
-            "title": "认识并使用一个透明代理http-server",
-            "summary": "http-server 可以简单理解成一个透明代理。能够让我们方便的在本地对项目以及资源进行调试校验，而不必再起一个 Nginx 来进行代理。",
-            "image": "http://t.eryajf.net/imgs/2022/12/72a0c2d9a56656a0.jpg",
-            "date_modified": "2022-12-08T11:15:58.000Z"
+            "id": "http://fsvip.gitee.io/hexo-theme-fluid/pages/fa2478/",
+            "url": "http://fsvip.gitee.io/hexo-theme-fluid/pages/fa2478/",
+            "title": "Jenkins基于Share Library共享库的最佳实践探索",
+            "summary": "古代治学总结有人生三境界，在我看来，Jenkins 使用接入亦有三个阶段，这也是每一个运维人员应用 Jenkins 所必须要经历的。",
+            "image": "http://t.eryajf.net/imgs/2022/05/307b7573bb77f2bb.jpg",
+            "date_modified": "2022-05-22T11:23:33.000Z"
         },
         {
             "id": "http://fsvip.gitee.io/hexo-theme-fluid/pages/ef36d8/",
@@ -221,28 +229,20 @@
             "date_modified": "2022-09-04T19:02:27.000Z"
         },
         {
-            "id": "http://fsvip.gitee.io/hexo-theme-fluid/pages/44a06c/",
-            "url": "http://fsvip.gitee.io/hexo-theme-fluid/pages/44a06c/",
-            "title": "Jenkins-Groovy中Switch的高阶用法",
-            "summary": "在流水线的构建过程中，免不了会有逻辑判断的地方，通常我们可以使用 when，if 来编写判断的语句，但是当需要判断的分支大于两个的时候，就不再推荐使用如上两种方式了。",
-            "image": "https://t.eryajf.net/imgs/2023/09/1694100590964.jpg",
-            "date_modified": "2023-09-07T23:28:25.000Z"
-        },
-        {
-            "id": "http://fsvip.gitee.io/hexo-theme-fluid/pages/fa2478/",
-            "url": "http://fsvip.gitee.io/hexo-theme-fluid/pages/fa2478/",
-            "title": "Jenkins基于Share Library共享库的最佳实践探索",
-            "summary": "古代治学总结有人生三境界，在我看来，Jenkins 使用接入亦有三个阶段，这也是每一个运维人员应用 Jenkins 所必须要经历的。",
-            "image": "http://t.eryajf.net/imgs/2022/05/307b7573bb77f2bb.jpg",
-            "date_modified": "2022-05-22T11:23:33.000Z"
-        },
-        {
             "id": "http://fsvip.gitee.io/hexo-theme-fluid/pages/ebae63/",
             "url": "http://fsvip.gitee.io/hexo-theme-fluid/pages/ebae63/",
             "title": "Jenkins-Groovy中三元表达式的用法",
             "summary": "我们在使用pipeline的时候，如果某一个变量没有正常声明，则会遇到变量定义失败的错误，这个时候，我们可以借助三元表达式来解决这个问题。",
             "image": "https://tva2.sinaimg.cn/large/008k1Yt0ly1h4rdnv4bawj30u011g7ai.jpg",
             "date_modified": "2022-09-10T14:53:11.000Z"
+        },
+        {
+            "id": "http://fsvip.gitee.io/hexo-theme-fluid/pages/44a06c/",
+            "url": "http://fsvip.gitee.io/hexo-theme-fluid/pages/44a06c/",
+            "title": "Jenkins-Groovy中Switch的高阶用法",
+            "summary": "在流水线的构建过程中，免不了会有逻辑判断的地方，通常我们可以使用 when，if 来编写判断的语句，但是当需要判断的分支大于两个的时候，就不再推荐使用如上两种方式了。",
+            "image": "https://t.eryajf.net/imgs/2023/09/1694100590964.jpg",
+            "date_modified": "2023-09-07T23:28:25.000Z"
         },
         {
             "id": "http://fsvip.gitee.io/hexo-theme-fluid/pages/90c88d/",
@@ -301,14 +301,6 @@
             "date_modified": "2022-11-26T19:39:08.000Z"
         },
         {
-            "id": "http://fsvip.gitee.io/hexo-theme-fluid/pages/c2262c/",
-            "url": "http://fsvip.gitee.io/hexo-theme-fluid/pages/c2262c/",
-            "title": "Mac电脑中优秀的讲课直播划线批注软件ScreenBrush详解",
-            "summary": "前一阵儿赋闲在家的时候，试水过一次直播，当时没有注意到一个问题，那就是讲课时实时划线批注的问题，当我们对着文档讲解的时候，观看直播的同学不能及时跟着主播的进度走，思路就很容易掉队，效果也就出不来。于是，我开始了解Mac上有没有优秀的划线批注软件，经过一番搜索与体验，最终我锁定了：ScreenBrush。",
-            "image": "http://t.eryajf.net/imgs/2022/08/0f1ec643b598917a.png",
-            "date_modified": "2022-08-25T09:04:55.000Z"
-        },
-        {
             "id": "http://fsvip.gitee.io/hexo-theme-fluid/pages/62b2b7/",
             "url": "http://fsvip.gitee.io/hexo-theme-fluid/pages/62b2b7/",
             "title": "vscode开发前端项目时如何tab补全自定义HTML标签",
@@ -317,20 +309,12 @@
             "date_modified": "2022-08-01T15:28:09.000Z"
         },
         {
-            "id": "http://fsvip.gitee.io/hexo-theme-fluid/pages/7220b1/",
-            "url": "http://fsvip.gitee.io/hexo-theme-fluid/pages/7220b1/",
-            "title": "Mac 电脑中 zsh 环境下配置 docker 命令自动补全",
-            "summary": "zsh 中有专门的插件来解决 docker 命令补全的问题，安装配置也比较简单，以下是操作的步骤。",
-            "image": "http://t.eryajf.net/imgs/2023/04/cee03a95313195d3.jpg",
-            "date_modified": "2023-04-27T17:45:51.000Z"
-        },
-        {
-            "id": "http://fsvip.gitee.io/hexo-theme-fluid/pages/62a7c7/",
-            "url": "http://fsvip.gitee.io/hexo-theme-fluid/pages/62a7c7/",
-            "title": "brew安装软件的一个报错解决",
-            "summary": "解决一个brew install时出现的错误。",
-            "image": "http://t.eryajf.net/imgs/2023/04/54411102a0621097.jpg",
-            "date_modified": "2023-04-24T22:23:54.000Z"
+            "id": "http://fsvip.gitee.io/hexo-theme-fluid/pages/c2262c/",
+            "url": "http://fsvip.gitee.io/hexo-theme-fluid/pages/c2262c/",
+            "title": "Mac电脑中优秀的讲课直播划线批注软件ScreenBrush详解",
+            "summary": "前一阵儿赋闲在家的时候，试水过一次直播，当时没有注意到一个问题，那就是讲课时实时划线批注的问题，当我们对着文档讲解的时候，观看直播的同学不能及时跟着主播的进度走，思路就很容易掉队，效果也就出不来。于是，我开始了解Mac上有没有优秀的划线批注软件，经过一番搜索与体验，最终我锁定了：ScreenBrush。",
+            "image": "http://t.eryajf.net/imgs/2022/08/0f1ec643b598917a.png",
+            "date_modified": "2022-08-25T09:04:55.000Z"
         },
         {
             "id": "http://fsvip.gitee.io/hexo-theme-fluid/pages/301514/",
@@ -341,12 +325,28 @@
             "date_modified": "2022-11-12T15:32:33.000Z"
         },
         {
+            "id": "http://fsvip.gitee.io/hexo-theme-fluid/pages/62a7c7/",
+            "url": "http://fsvip.gitee.io/hexo-theme-fluid/pages/62a7c7/",
+            "title": "brew安装软件的一个报错解决",
+            "summary": "解决一个brew install时出现的错误。",
+            "image": "http://t.eryajf.net/imgs/2023/04/54411102a0621097.jpg",
+            "date_modified": "2023-04-24T22:23:54.000Z"
+        },
+        {
             "id": "http://fsvip.gitee.io/hexo-theme-fluid/pages/4aee10/",
             "url": "http://fsvip.gitee.io/hexo-theme-fluid/pages/4aee10/",
             "title": "mac电脑安装Java开发环境",
             "summary": "本文介绍如何在Mac上配置jdk与maven环境。",
             "image": "http://t.eryajf.net/imgs/2023/04/80cc8c393d1e3fcf.png",
             "date_modified": "2023-04-24T22:29:05.000Z"
+        },
+        {
+            "id": "http://fsvip.gitee.io/hexo-theme-fluid/pages/7220b1/",
+            "url": "http://fsvip.gitee.io/hexo-theme-fluid/pages/7220b1/",
+            "title": "Mac 电脑中 zsh 环境下配置 docker 命令自动补全",
+            "summary": "zsh 中有专门的插件来解决 docker 命令补全的问题，安装配置也比较简单，以下是操作的步骤。",
+            "image": "http://t.eryajf.net/imgs/2023/04/cee03a95313195d3.jpg",
+            "date_modified": "2023-04-27T17:45:51.000Z"
         },
         {
             "id": "http://fsvip.gitee.io/hexo-theme-fluid/pages/b74c2b/",
@@ -363,14 +363,6 @@
             "summary": "一句话来讲：我需要 CDN 的加速能力，但是又不想为对抗刷流量付出过多的精力，在这个基础之上，费用越便宜越好。毕竟是个人博客，服务器费用已是自己承担，分享内容已消耗很多的精力，现在 CDN 如果再有过多的精力和金钱投入，就太难受了。有了以上的准备及预期之后，我开始了博客接入 CDN 的折腾之旅。顺着这个折腾之旅，也了解体验了不少国内的 CDN 产品，聊作记录，兼为评测，以为分享。",
             "image": "http://t.eryajf.net/imgs/2023/01/4b0d2463a48df154.png",
             "date_modified": "2023-01-30T11:44:55.000Z"
-        },
-        {
-            "id": "http://fsvip.gitee.io/hexo-theme-fluid/pages/dbc829/",
-            "url": "http://fsvip.gitee.io/hexo-theme-fluid/pages/dbc829/",
-            "title": "Vuepress配置rss订阅功能",
-            "summary": "默认的 vuepress 程序没有集成 rss 订阅能力，不过第三方有插件集成了相应的能力，本文来介绍下如何通过插件来为博客集成 rss 订阅能力。",
-            "image": "http://t.eryajf.net/imgs/2023/02/eda332e9f423f6b1.jpg",
-            "date_modified": "2023-02-01T21:54:04.000Z"
         },
         {
             "id": "http://fsvip.gitee.io/hexo-theme-fluid/pages/2e6f3a/",
@@ -397,6 +389,14 @@
             "date_modified": "2023-02-11T16:16:54.000Z"
         },
         {
+            "id": "http://fsvip.gitee.io/hexo-theme-fluid/pages/dbc829/",
+            "url": "http://fsvip.gitee.io/hexo-theme-fluid/pages/dbc829/",
+            "title": "Vuepress配置rss订阅功能",
+            "summary": "默认的 vuepress 程序没有集成 rss 订阅能力，不过第三方有插件集成了相应的能力，本文来介绍下如何通过插件来为博客集成 rss 订阅能力。",
+            "image": "http://t.eryajf.net/imgs/2023/02/eda332e9f423f6b1.jpg",
+            "date_modified": "2023-02-01T21:54:04.000Z"
+        },
+        {
             "id": "http://fsvip.gitee.io/hexo-theme-fluid/pages/c54d2e/",
             "url": "http://fsvip.gitee.io/hexo-theme-fluid/pages/c54d2e/",
             "title": "规范编码之利用pre-commit给项目添加提交前检查",
@@ -421,14 +421,6 @@
             "date_modified": "2022-05-21T22:43:44.000Z"
         },
         {
-            "id": "http://fsvip.gitee.io/hexo-theme-fluid/pages/9b4f5f/",
-            "url": "http://fsvip.gitee.io/hexo-theme-fluid/pages/9b4f5f/",
-            "title": "一次因为Mac系统升级引发的ssh无法免密登陆的问题",
-            "summary": "公司内部安卓与 iOS 打包是通过内部的一台 Mac mini 主机上部署的 Jenkins 完成的，一切都看起来非常优雅且自如。我也正在忙自己的事情，突然一个开发小哥找过来，说发布过程有问题了，其中有一个步骤是在 Jenkins 中打完包之后，将包通过 scp 传到一台 centos 服务器上，从而提供给开发者进行下载。现在出现的问题是，scp 的时候让输入密码了。",
-            "image": "http://t.eryajf.net/imgs/2023/05/090da587d95bed42.jpg",
-            "date_modified": "2023-05-26T14:20:38.000Z"
-        },
-        {
             "id": "http://fsvip.gitee.io/hexo-theme-fluid/pages/face3c/",
             "url": "http://fsvip.gitee.io/hexo-theme-fluid/pages/face3c/",
             "title": "学习周刊-总第140期-2024年第01周",
@@ -444,11 +436,12 @@
             "date_modified": "2023-03-07T10:56:00.000Z"
         },
         {
-            "id": "http://fsvip.gitee.io/hexo-theme-fluid/pages/afc8fe/",
-            "url": "http://fsvip.gitee.io/hexo-theme-fluid/pages/afc8fe/",
-            "title": "置顶文章汇总",
-            "summary": "因为首页只展示最近更新的十篇文章，过多优秀的文章不能都置顶，因此单独一篇文章，将博客中精华内容罗列于此。",
-            "date_modified": "2022-05-23T22:26:48.000Z"
+            "id": "http://fsvip.gitee.io/hexo-theme-fluid/pages/9b4f5f/",
+            "url": "http://fsvip.gitee.io/hexo-theme-fluid/pages/9b4f5f/",
+            "title": "一次因为Mac系统升级引发的ssh无法免密登陆的问题",
+            "summary": "公司内部安卓与 iOS 打包是通过内部的一台 Mac mini 主机上部署的 Jenkins 完成的，一切都看起来非常优雅且自如。我也正在忙自己的事情，突然一个开发小哥找过来，说发布过程有问题了，其中有一个步骤是在 Jenkins 中打完包之后，将包通过 scp 传到一台 centos 服务器上，从而提供给开发者进行下载。现在出现的问题是，scp 的时候让输入密码了。",
+            "image": "http://t.eryajf.net/imgs/2023/05/090da587d95bed42.jpg",
+            "date_modified": "2023-05-26T14:20:38.000Z"
         },
         {
             "id": "http://fsvip.gitee.io/hexo-theme-fluid/pages/b2f34c/",
@@ -457,6 +450,13 @@
             "summary": "博客经过了五年的积累之后，已经沉淀了许多的内容，在此有必要做一个导引，帮助你更好地认识到，你正在浏览的，是一个构思多么用心，设计多么优秀，内容多么丰富，情操多么高尚，境界多么高雅的博客。",
             "image": "https://raw.githubusercontent.com/eryajf/eryajf/master/assets/github-contribution-grid-snake.svg",
             "date_modified": "2023-02-13T10:56:00.000Z"
+        },
+        {
+            "id": "http://fsvip.gitee.io/hexo-theme-fluid/pages/afc8fe/",
+            "url": "http://fsvip.gitee.io/hexo-theme-fluid/pages/afc8fe/",
+            "title": "置顶文章汇总",
+            "summary": "因为首页只展示最近更新的十篇文章，过多优秀的文章不能都置顶，因此单独一篇文章，将博客中精华内容罗列于此。",
+            "date_modified": "2022-05-23T22:26:48.000Z"
         }
     ]
 }
