@@ -62,20 +62,20 @@
             "date_modified": "2022-06-01T14:28:05.000Z"
         },
         {
-            "id": "http://fsvip.gitee.io/hexo-theme-fluid/pages/e7a8dc/",
-            "url": "http://fsvip.gitee.io/hexo-theme-fluid/pages/e7a8dc/",
-            "title": "分享我的开源项目Thank-Mirror",
-            "summary": "整理记录各个包管理器，系统镜像，以及常用软件的好用镜像。Thanks Mirror。",
-            "image": "https://starchart.cc/eryajf/Thanks-Mirror.svg",
-            "date_modified": "2022-05-09T23:48:23.000Z"
-        },
-        {
             "id": "http://fsvip.gitee.io/hexo-theme-fluid/pages/48e307/",
             "url": "http://fsvip.gitee.io/hexo-theme-fluid/pages/48e307/",
             "title": "一个仅需三步配置就能生成免费个人博客的开源模板vdoing-template",
             "summary": "一个仅需三步配置就能生成免费个人博客的开源模板vdoing-template",
             "image": "http://t.eryajf.net/imgs/2022/07/63da28a5c19aecfa.png",
             "date_modified": "2022-07-23T11:06:46.000Z"
+        },
+        {
+            "id": "http://fsvip.gitee.io/hexo-theme-fluid/pages/e7a8dc/",
+            "url": "http://fsvip.gitee.io/hexo-theme-fluid/pages/e7a8dc/",
+            "title": "分享我的开源项目Thank-Mirror",
+            "summary": "整理记录各个包管理器，系统镜像，以及常用软件的好用镜像。Thanks Mirror。",
+            "image": "https://starchart.cc/eryajf/Thanks-Mirror.svg",
+            "date_modified": "2022-05-09T23:48:23.000Z"
         },
         {
             "id": "http://fsvip.gitee.io/hexo-theme-fluid/pages/226388/",
@@ -102,20 +102,20 @@
             "date_modified": "2022-06-01T10:30:49.000Z"
         },
         {
-            "id": "http://fsvip.gitee.io/hexo-theme-fluid/pages/1b1ba3/",
-            "url": "http://fsvip.gitee.io/hexo-theme-fluid/pages/1b1ba3/",
-            "title": "利用GitHub Actions自动获取博客rss文章",
-            "summary": "在GitHub中，我们能看到每个人都在折腾个人同名仓库的profile，我在这上边也花了不少的时间，在这个冲浪经历中，感觉外国人折腾的好像要更厉害一些，浏览过程中看到有人能直接在个人的profile中生成博客最近更新文章，很是新颖，于是就学习了一下。",
-            "image": "http://t.eryajf.net/imgs/2022/06/a8aba8b74d90d40e.png",
-            "date_modified": "2022-06-27T16:39:27.000Z"
-        },
-        {
             "id": "http://fsvip.gitee.io/hexo-theme-fluid/pages/f3e878/",
             "url": "http://fsvip.gitee.io/hexo-theme-fluid/pages/f3e878/",
             "title": "利用GitHub Actions自动优雅地为项目构建Releases",
             "summary": "基于git管理的项目，通常在分支管理之外，还会通过tag来对代码进行管理，尤其像go语言，go mod更是依赖tag来对项目的版本进行管理，因此合理的版本管理，对于项目的发展也会是更加健康的一个激励。GitHub中有一个Releases的概念，其实与tag差不多，简单理解就是在打一个tag的基础之上，用releases来进行管理。如果你没有了解过这里边的概念，那么要想成功打一个release还是有点难度的。",
             "image": "http://t.eryajf.net/imgs/2022/06/7de93f2784bd8d32.jpg",
             "date_modified": "2022-06-22T17:20:54.000Z"
+        },
+        {
+            "id": "http://fsvip.gitee.io/hexo-theme-fluid/pages/1b1ba3/",
+            "url": "http://fsvip.gitee.io/hexo-theme-fluid/pages/1b1ba3/",
+            "title": "利用GitHub Actions自动获取博客rss文章",
+            "summary": "在GitHub中，我们能看到每个人都在折腾个人同名仓库的profile，我在这上边也花了不少的时间，在这个冲浪经历中，感觉外国人折腾的好像要更厉害一些，浏览过程中看到有人能直接在个人的profile中生成博客最近更新文章，很是新颖，于是就学习了一下。",
+            "image": "http://t.eryajf.net/imgs/2022/06/a8aba8b74d90d40e.png",
+            "date_modified": "2022-06-27T16:39:27.000Z"
         },
         {
             "id": "http://fsvip.gitee.io/hexo-theme-fluid/pages/5baf0a/",
@@ -126,19 +126,19 @@
             "date_modified": "2022-07-23T11:01:57.000Z"
         },
         {
-            "id": "http://fsvip.gitee.io/hexo-theme-fluid/pages/4ba0f4/",
-            "url": "http://fsvip.gitee.io/hexo-theme-fluid/pages/4ba0f4/",
-            "title": "利用GitHub Actions自动生成个人star列表并归类",
-            "summary": "当我们在GitHub中冲浪时，遇到优秀的项目经常会为之点赞，但就像网络上经常说的玩笑一样：收藏等于会了。其实我们不应该让这些已被自己赏识过的项目石沉大海，那么，如果有一个项目能把自己过去star过得项目自动整理并归类就好了。本文就将介绍如何利用GitHub Actions来实现这个功能。",
-            "date_modified": "2022-07-29T16:26:09.000Z"
-        },
-        {
             "id": "http://fsvip.gitee.io/hexo-theme-fluid/pages/db92f0/",
             "url": "http://fsvip.gitee.io/hexo-theme-fluid/pages/db92f0/",
             "title": "利用GitHub Actions自动生成GitHub的Fans",
             "summary": "GitHub中的follow功能，类似于微博中的关注，而关注我们的大佬，就更应该有一个合适的地方安排，本文将分享如何基于GitHub Actions自动生成个人的Fans列表。",
             "image": "http://t.eryajf.net/imgs/2022/07/71ebbd7a8dc21cb3.png",
             "date_modified": "2022-07-29T15:51:43.000Z"
+        },
+        {
+            "id": "http://fsvip.gitee.io/hexo-theme-fluid/pages/4ba0f4/",
+            "url": "http://fsvip.gitee.io/hexo-theme-fluid/pages/4ba0f4/",
+            "title": "利用GitHub Actions自动生成个人star列表并归类",
+            "summary": "当我们在GitHub中冲浪时，遇到优秀的项目经常会为之点赞，但就像网络上经常说的玩笑一样：收藏等于会了。其实我们不应该让这些已被自己赏识过的项目石沉大海，那么，如果有一个项目能把自己过去star过得项目自动整理并归类就好了。本文就将介绍如何利用GitHub Actions来实现这个功能。",
+            "date_modified": "2022-07-29T16:26:09.000Z"
         },
         {
             "id": "http://fsvip.gitee.io/hexo-theme-fluid/pages/dbee9e/",
@@ -189,14 +189,6 @@
             "date_modified": "2022-09-20T23:10:54.000Z"
         },
         {
-            "id": "http://fsvip.gitee.io/hexo-theme-fluid/pages/18ca89/",
-            "url": "http://fsvip.gitee.io/hexo-theme-fluid/pages/18ca89/",
-            "title": "将npm本地包上传到nexus私服的实践",
-            "summary": "本文来介绍当我们的npm私服配置完毕之后，如何上传到nexus私服中",
-            "image": "http://t.eryajf.net/imgs/2022/09/afa6929b47059291.png",
-            "date_modified": "2022-09-20T23:11:24.000Z"
-        },
-        {
             "id": "http://fsvip.gitee.io/hexo-theme-fluid/pages/de5421/",
             "url": "http://fsvip.gitee.io/hexo-theme-fluid/pages/de5421/",
             "title": "nexus2.x升级到3.x之后仓库地址改变的问题探索",
@@ -205,20 +197,20 @@
             "date_modified": "2023-05-21T09:49:01.000Z"
         },
         {
+            "id": "http://fsvip.gitee.io/hexo-theme-fluid/pages/18ca89/",
+            "url": "http://fsvip.gitee.io/hexo-theme-fluid/pages/18ca89/",
+            "title": "将npm本地包上传到nexus私服的实践",
+            "summary": "本文来介绍当我们的npm私服配置完毕之后，如何上传到nexus私服中",
+            "image": "http://t.eryajf.net/imgs/2022/09/afa6929b47059291.png",
+            "date_modified": "2022-09-20T23:11:24.000Z"
+        },
+        {
             "id": "http://fsvip.gitee.io/hexo-theme-fluid/pages/347662/",
             "url": "http://fsvip.gitee.io/hexo-theme-fluid/pages/347662/",
             "title": "关于gradle中plugins依赖未走私服导致编译失败的原因探析",
             "summary": "本文将介绍gradle中plugins配置区块儿的私服代理配置问题",
             "image": "http://t.eryajf.net/imgs/2023/06/d12ea0825cebfefe.png",
             "date_modified": "2023-06-03T21:34:58.000Z"
-        },
-        {
-            "id": "http://fsvip.gitee.io/hexo-theme-fluid/pages/fa2478/",
-            "url": "http://fsvip.gitee.io/hexo-theme-fluid/pages/fa2478/",
-            "title": "Jenkins基于Share Library共享库的最佳实践探索",
-            "summary": "古代治学总结有人生三境界，在我看来，Jenkins 使用接入亦有三个阶段，这也是每一个运维人员应用 Jenkins 所必须要经历的。",
-            "image": "http://t.eryajf.net/imgs/2022/05/307b7573bb77f2bb.jpg",
-            "date_modified": "2022-05-22T11:23:33.000Z"
         },
         {
             "id": "http://fsvip.gitee.io/hexo-theme-fluid/pages/ef36d8/",
@@ -235,6 +227,14 @@
             "summary": "我们在使用pipeline的时候，如果某一个变量没有正常声明，则会遇到变量定义失败的错误，这个时候，我们可以借助三元表达式来解决这个问题。",
             "image": "https://tva2.sinaimg.cn/large/008k1Yt0ly1h4rdnv4bawj30u011g7ai.jpg",
             "date_modified": "2022-09-10T14:53:11.000Z"
+        },
+        {
+            "id": "http://fsvip.gitee.io/hexo-theme-fluid/pages/fa2478/",
+            "url": "http://fsvip.gitee.io/hexo-theme-fluid/pages/fa2478/",
+            "title": "Jenkins基于Share Library共享库的最佳实践探索",
+            "summary": "古代治学总结有人生三境界，在我看来，Jenkins 使用接入亦有三个阶段，这也是每一个运维人员应用 Jenkins 所必须要经历的。",
+            "image": "http://t.eryajf.net/imgs/2022/05/307b7573bb77f2bb.jpg",
+            "date_modified": "2022-05-22T11:23:33.000Z"
         },
         {
             "id": "http://fsvip.gitee.io/hexo-theme-fluid/pages/44a06c/",
@@ -333,20 +333,20 @@
             "date_modified": "2023-04-24T22:23:54.000Z"
         },
         {
-            "id": "http://fsvip.gitee.io/hexo-theme-fluid/pages/4aee10/",
-            "url": "http://fsvip.gitee.io/hexo-theme-fluid/pages/4aee10/",
-            "title": "mac电脑安装Java开发环境",
-            "summary": "本文介绍如何在Mac上配置jdk与maven环境。",
-            "image": "http://t.eryajf.net/imgs/2023/04/80cc8c393d1e3fcf.png",
-            "date_modified": "2023-04-24T22:29:05.000Z"
-        },
-        {
             "id": "http://fsvip.gitee.io/hexo-theme-fluid/pages/7220b1/",
             "url": "http://fsvip.gitee.io/hexo-theme-fluid/pages/7220b1/",
             "title": "Mac 电脑中 zsh 环境下配置 docker 命令自动补全",
             "summary": "zsh 中有专门的插件来解决 docker 命令补全的问题，安装配置也比较简单，以下是操作的步骤。",
             "image": "http://t.eryajf.net/imgs/2023/04/cee03a95313195d3.jpg",
             "date_modified": "2023-04-27T17:45:51.000Z"
+        },
+        {
+            "id": "http://fsvip.gitee.io/hexo-theme-fluid/pages/4aee10/",
+            "url": "http://fsvip.gitee.io/hexo-theme-fluid/pages/4aee10/",
+            "title": "mac电脑安装Java开发环境",
+            "summary": "本文介绍如何在Mac上配置jdk与maven环境。",
+            "image": "http://t.eryajf.net/imgs/2023/04/80cc8c393d1e3fcf.png",
+            "date_modified": "2023-04-24T22:29:05.000Z"
         },
         {
             "id": "http://fsvip.gitee.io/hexo-theme-fluid/pages/b74c2b/",
@@ -373,6 +373,14 @@
             "date_modified": "2023-02-01T21:53:53.000Z"
         },
         {
+            "id": "http://fsvip.gitee.io/hexo-theme-fluid/pages/dbc829/",
+            "url": "http://fsvip.gitee.io/hexo-theme-fluid/pages/dbc829/",
+            "title": "Vuepress配置rss订阅功能",
+            "summary": "默认的 vuepress 程序没有集成 rss 订阅能力，不过第三方有插件集成了相应的能力，本文来介绍下如何通过插件来为博客集成 rss 订阅能力。",
+            "image": "http://t.eryajf.net/imgs/2023/02/eda332e9f423f6b1.jpg",
+            "date_modified": "2023-02-01T21:54:04.000Z"
+        },
+        {
             "id": "http://fsvip.gitee.io/hexo-theme-fluid/pages/b205e9/",
             "url": "http://fsvip.gitee.io/hexo-theme-fluid/pages/b205e9/",
             "title": "Vuepress全文搜索插件vuepress-plugin-flexsearch-pro",
@@ -387,14 +395,6 @@
             "summary": "一个好的搜索，能够更快速地把我们博客的内容呈现给读者。这也是我为什么五次三番地写文章介绍 Vuepress 配置全文搜索的原因。在市面上，除了利用自身实现全文搜索之外，还有一种比较流行的就是接入外置的搜索引擎，在这种方案之中，大多数推荐的，文章介绍的，都是针对 algolia 的对接，algolia 非常优秀，提供了免费的额度供普通博客进行接入，但据一些反馈来看，这个资格的审核一般需要三天。另外最重要的是，当博客内容足够多之后，免费额度不够用，就得付费购买服务，且 algolia 是闭源的，没有自建搜索的可能。",
             "image": "http://t.eryajf.net/imgs/2023/02/05c4eacd04712121.png",
             "date_modified": "2023-02-11T16:16:54.000Z"
-        },
-        {
-            "id": "http://fsvip.gitee.io/hexo-theme-fluid/pages/dbc829/",
-            "url": "http://fsvip.gitee.io/hexo-theme-fluid/pages/dbc829/",
-            "title": "Vuepress配置rss订阅功能",
-            "summary": "默认的 vuepress 程序没有集成 rss 订阅能力，不过第三方有插件集成了相应的能力，本文来介绍下如何通过插件来为博客集成 rss 订阅能力。",
-            "image": "http://t.eryajf.net/imgs/2023/02/eda332e9f423f6b1.jpg",
-            "date_modified": "2023-02-01T21:54:04.000Z"
         },
         {
             "id": "http://fsvip.gitee.io/hexo-theme-fluid/pages/c54d2e/",
@@ -421,6 +421,14 @@
             "date_modified": "2022-05-21T22:43:44.000Z"
         },
         {
+            "id": "http://fsvip.gitee.io/hexo-theme-fluid/pages/9b4f5f/",
+            "url": "http://fsvip.gitee.io/hexo-theme-fluid/pages/9b4f5f/",
+            "title": "一次因为Mac系统升级引发的ssh无法免密登陆的问题",
+            "summary": "公司内部安卓与 iOS 打包是通过内部的一台 Mac mini 主机上部署的 Jenkins 完成的，一切都看起来非常优雅且自如。我也正在忙自己的事情，突然一个开发小哥找过来，说发布过程有问题了，其中有一个步骤是在 Jenkins 中打完包之后，将包通过 scp 传到一台 centos 服务器上，从而提供给开发者进行下载。现在出现的问题是，scp 的时候让输入密码了。",
+            "image": "http://t.eryajf.net/imgs/2023/05/090da587d95bed42.jpg",
+            "date_modified": "2023-05-26T14:20:38.000Z"
+        },
+        {
             "id": "http://fsvip.gitee.io/hexo-theme-fluid/pages/face3c/",
             "url": "http://fsvip.gitee.io/hexo-theme-fluid/pages/face3c/",
             "title": "学习周刊-总第140期-2024年第01周",
@@ -436,12 +444,11 @@
             "date_modified": "2023-03-07T10:56:00.000Z"
         },
         {
-            "id": "http://fsvip.gitee.io/hexo-theme-fluid/pages/9b4f5f/",
-            "url": "http://fsvip.gitee.io/hexo-theme-fluid/pages/9b4f5f/",
-            "title": "一次因为Mac系统升级引发的ssh无法免密登陆的问题",
-            "summary": "公司内部安卓与 iOS 打包是通过内部的一台 Mac mini 主机上部署的 Jenkins 完成的，一切都看起来非常优雅且自如。我也正在忙自己的事情，突然一个开发小哥找过来，说发布过程有问题了，其中有一个步骤是在 Jenkins 中打完包之后，将包通过 scp 传到一台 centos 服务器上，从而提供给开发者进行下载。现在出现的问题是，scp 的时候让输入密码了。",
-            "image": "http://t.eryajf.net/imgs/2023/05/090da587d95bed42.jpg",
-            "date_modified": "2023-05-26T14:20:38.000Z"
+            "id": "http://fsvip.gitee.io/hexo-theme-fluid/pages/afc8fe/",
+            "url": "http://fsvip.gitee.io/hexo-theme-fluid/pages/afc8fe/",
+            "title": "置顶文章汇总",
+            "summary": "因为首页只展示最近更新的十篇文章，过多优秀的文章不能都置顶，因此单独一篇文章，将博客中精华内容罗列于此。",
+            "date_modified": "2022-05-23T22:26:48.000Z"
         },
         {
             "id": "http://fsvip.gitee.io/hexo-theme-fluid/pages/b2f34c/",
@@ -450,13 +457,6 @@
             "summary": "博客经过了五年的积累之后，已经沉淀了许多的内容，在此有必要做一个导引，帮助你更好地认识到，你正在浏览的，是一个构思多么用心，设计多么优秀，内容多么丰富，情操多么高尚，境界多么高雅的博客。",
             "image": "https://raw.githubusercontent.com/eryajf/eryajf/master/assets/github-contribution-grid-snake.svg",
             "date_modified": "2023-02-13T10:56:00.000Z"
-        },
-        {
-            "id": "http://fsvip.gitee.io/hexo-theme-fluid/pages/afc8fe/",
-            "url": "http://fsvip.gitee.io/hexo-theme-fluid/pages/afc8fe/",
-            "title": "置顶文章汇总",
-            "summary": "因为首页只展示最近更新的十篇文章，过多优秀的文章不能都置顶，因此单独一篇文章，将博客中精华内容罗列于此。",
-            "date_modified": "2022-05-23T22:26:48.000Z"
         }
     ]
 }
